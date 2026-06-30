@@ -1,1 +1,0 @@
-"""Prescriptions domain package."""

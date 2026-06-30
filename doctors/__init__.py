@@ -1,1 +1,0 @@
-"""Doctors domain package."""
